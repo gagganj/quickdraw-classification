@@ -1,0 +1,1 @@
+This is part of my Data Analysis and Machine Learning coursework at The University of Edinburgh. In this exercise, a 2D CNN is used to classify images from the 'quickdraw' dataset with a testing accuracy of 86%. The reconstruction of these images through autoencoders is explored and their latent representations are evaluated, allowing anomaly detection to be performed.
